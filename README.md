@@ -55,7 +55,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfBDRtf_bTzV0T8ebVyVYSQBsaL79eynVxjtRDK
 
 ## My Profiles
 GitHub: https://github.com/harsh25bce11045 LinkedIn: https://www.linkedin.com/in/harsh-agarwal-5775973a4/
-Kaggle: https://www.kaggle.com/harshagarwal617 CodeChef: https://www.codechef.com/users/harshagarwal99
+ Kaggle: https://www.kaggle.com/harshagarwal617 CodeChef: https://www.codechef.com/users/harshagarwal99
 
 ---
 
